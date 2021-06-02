@@ -17,7 +17,7 @@ HVAC utilities are provided by bathrooms. Electrical circuit breakers are locate
 
 This module passed physical simulations of 3-story-tall construction, wind loads from the side for any part of the US (as listed in the IBC), and earthquake accelerations of up to 2 gs, which all caused some distortion of an unreinforced module, but without any collapse. I also simulated a 50% weakening of the steel due to fire, and a simulated 3-story construction remained standing.
 
-The garage module included interacted in a bizarre fashion with the mechanical simulation, and it is unclear if it will hold up to forces.
+The garage module included interacted in a bizarre fashion with the mechanical simulation, and it is unclear if it will hold up to forces. It also uses a different foundation format, where the HSS segments that support it should be mounted to the foundation by slotting them into larger HSS segments or with anchor plates.
 
 "Core" Modules:
 - Basic Module
